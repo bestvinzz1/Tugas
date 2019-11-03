@@ -8,7 +8,7 @@ namespace test {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("hello word");
+            Console.WriteLine("hel word");
         }
     }
 }
